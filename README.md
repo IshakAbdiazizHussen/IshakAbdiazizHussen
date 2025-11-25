@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack I Love Right Now
 
-Frontend  : ⚛️ React • 🚀 Next.js • 🟦 TypeScript • 🎨 Tailwind CSS • ✨ Framer Motion
-Backend   : 🟢 Node.js • ⚙️ Express • 🔗 Prisma • 🍃 MongoDB • 🐘 PostgreSQL
-Tools     : 🔀 Git • 🐳 Docker • 🌐 Vercel • 🔥 Supabase • 🛠️ Firebase
+Frontend  : ⚛️ React • 🚀 Next.js • 🟦 TypeScript • 🎨 Tailwind CSS 
+Backend   : 🟢 Node.js • ⚙️ Express  • 🍃 MongoDB 
+Tools     : 🔀 Git GitHub • 🌐 Vercel 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IshakAbdiazizHussen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=IshakAbdiazizHussen&theme=dark&hide_border=false)<br/>
