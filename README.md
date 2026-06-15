@@ -1,4 +1,4 @@
-# Ishak Abdiaziz
+# Ishak Abdiaziz Abdiaziz
 
 ## Full-Stack Software Engineer
 
