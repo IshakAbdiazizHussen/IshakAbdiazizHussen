@@ -38,6 +38,6 @@ I am building strong foundations in backend engineering, database systems, and A
 - Full-Stack Dashboard
 - Machine Learning Prediction API
 
-## Motto
+## Professional Mindset
 
-Keep building. Keep learning. Keep improving.
+Build with purpose. Learn with discipline. Improve with consistency.
