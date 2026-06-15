@@ -1,24 +1,48 @@
-Hi there, I'm Ishak Abdiaziz 👋
+# Ishak Abdiaziz
 
-Full-Stack Web Developer | Passionate about clean code & beautiful user experiences**
+## Full-Stack Software Engineer
 
-2025 has been an incredible chapter in my coding journey — a full year of growth, challenges, and real-world impact. From shipping production-ready applications to diving deeper into modern stacks, this year I leveled up like never before.
-Here are some ideas to get you started:
+Scalable Web Systems • API Design • Backend Architecture • AI Engineering
 
-🚀 2025 Highlights in Numbers
-- 🌍 Contributed to open-source & collaborated globally  
-- 🔧 Mastered **TypeScript**, **Tailwind CSS**, and advanced state management  
-- ☁️ Deployed apps on **Vercel**, **Render**, **Railway**  
-- 🔐 Strengthened backend with **JWT**, **OAuth**, **Socket.io** real-time apps
+I build production-ready web applications and APIs with clean architecture, maintainable code, and scalable backend systems.
 
+## Focus
 
-### 🛠️ Tech Stack I Love Right Now
+- Backend architecture
+- REST API development
+- Authentication and authorization
+- Database design and optimization
+- Full-stack application development
+- AI and machine learning engineering
 
-Frontend  : ⚛️ React • 🚀 Next.js • 🟦 TypeScript • 🎨 Tailwind CSS 
-Backend   : 🟢 Node.js • ⚙️ Express  • 🍃 MongoDB 
-Tools     : 🔀 Git GitHub • 🌐 Vercel 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IshakAbdiazizHussen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IshakAbdiazizHussen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshakAbdiazizHussen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Tech Stack
 
+**Languages:** Python • TypeScript • JavaScript • SQL  
+**Backend:** FastAPI • Django • Node.js • Express  
+**Frontend:** React • Next.js • Tailwind CSS  
+**Databases:** PostgreSQL • MongoDB • Redis  
+**DevOps:** Docker • Git • GitHub • Vercel • Render  
+**AI/ML:** NumPy • Pandas • Scikit-Learn  
+
+## Current Direction
+
+I am building strong foundations in backend engineering, database systems, and AI-powered applications.
+
+## GitHub Stats
+
+![Ishak Abdiaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshakAbdiazizHussen&show_icons=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshakAbdiazizHussen&layout=compact&theme=github_dark)
+
+## Featured Projects
+
+- FastAPI Authentication API
+- PostgreSQL REST API
+- AI News Classifier
+- Redis Caching System
+- Full-Stack Dashboard
+- Machine Learning Prediction API
+
+## Motto
+
+Keep building. Keep learning. Keep improving.
