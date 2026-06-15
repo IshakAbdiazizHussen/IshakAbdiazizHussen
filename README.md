@@ -28,13 +28,8 @@ I build production-ready web applications and APIs with clean architecture, main
 
 I am building strong foundations in backend engineering, database systems, and AI-powered applications.
 
-## GitHub Stats
 
-![Ishak Abdiaziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshakAbdiazizHussen&show_icons=true&theme=github_dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshakAbdiazizHussen&layout=compact&theme=github_dark)
-
-## Featured Projects
+ Projects
 
 - FastAPI Authentication API
 - PostgreSQL REST API
