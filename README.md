@@ -22,7 +22,7 @@ I build production-ready web applications and APIs with clean architecture, main
 **Frontend:** React • Next.js • Tailwind CSS  
 **Databases:** PostgreSQL • MongoDB • Redis  
 **DevOps:** Docker • Git • GitHub • Vercel • Render  
-**AI/ML:** NumPy • Pandas • Scikit-Learn  
+ 
 
 ## Current Direction
 
