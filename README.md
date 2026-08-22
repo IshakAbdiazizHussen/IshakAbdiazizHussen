@@ -69,20 +69,6 @@ A RESTful API built on a normalized PostgreSQL schema, focused on clean data mod
 
 ---
 
-### AI News Classifier
-A machine learning model that classifies news articles by category/topic.
-
-**Stack:** Python, scikit-learn / ML pipeline
-
----
-
-### Redis Caching System
-Caching layer implementation to reduce database load and cut API response times.
-
-**Stack:** Redis, Python/Node.js
-
----
-
 ### Full-Stack Dashboard
 End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
 
