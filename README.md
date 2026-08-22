@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | AI Engineering
 
-Scalable Web Systems • API Design • Backend Architecture • AI Engineering
+High-growth-capacity Web Systems • API Design • Backend Architecture • AI Engineering
 
 I build production-ready backend systems and APIs with clean architecture, maintainable code, and scalable infrastructure — and I'm extending that into AI-powered applications.
 
@@ -74,9 +74,7 @@ End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
 
 **Stack:** React, Next.js, Node.js/FastAPI, PostgreSQL
 
-## Current Direction
-
-I am building strong foundations in backend engineering, database systems, and AI-powered applications.
+---
 
 ## Mindset
 
