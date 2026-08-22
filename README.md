@@ -1,10 +1,10 @@
-# Ishak Abdiaziz Abdiaziz
+# Ishak Abdiaziz Hussein
 
-## Full-Stack Software Engineer
+### Backend Software Engineer | AI Engineering
 
 Scalable Web Systems • API Design • Backend Architecture • AI Engineering
 
-I build production-ready web applications and APIs with clean architecture, maintainable code, and scalable backend systems.
+I build production-ready backend systems and APIs with clean architecture, maintainable code, and scalable infrastructure — and I'm extending that into AI-powered applications.
 
 ## Focus
 
@@ -13,30 +13,84 @@ I build production-ready web applications and APIs with clean architecture, main
 - Authentication and authorization
 - Database design and optimization
 - Full-stack application development
-- AI and machine learning engineering
+- AI engineering — RAG, LLMs, and AI agents
 
 ## Tech Stack
 
-**Languages:** Python • TypeScript • JavaScript • SQL  
-**Backend:** FastAPI • Django • Node.js • Express  
-**Frontend:** React • Next.js • Tailwind CSS  
-**Databases:** PostgreSQL • MongoDB • Redis  
-**DevOps:** Docker • Git • GitHub • Vercel • Render  
- 
+**Backend:** Python • FastAPI • Prisma • Redis
+**Frontend:** Next.js • Tailwind CSS
+**Data:** pgVector • Supabase • MongoDB • PostgreSQL
+**AI:** RAG • LLMs • AI Agents • Embeddings • Tools • Memory • LangGraph
+**Languages:** JavaScript • C++ • C • Python
+
+## Featured Projects
+
+### AI Document Assistant
+Repo: https://github.com/IshakAbdiazizHussen/Ai-Document-Assistant
+
+A RAG-powered assistant that lets users upload documents (PDF, Word) and query them in natural language — get direct answers, summaries, or extracted data without manually searching through the file.
+
+**Stack:** Python, FastAPI, RAG pipeline, LLMs
+
+**Highlights:**
+- Retrieval-augmented Q&A over uploaded documents, not just static text search
+- Multi-format ingestion (PDF, DOCX, and more)
+- Automated summarization of long documents
+- Structured key-data extraction, removing manual copy-paste work
+
+---
+
+### Research Agent
+Repo: https://github.com/IshakAbdiazizHussen/Research-Agent-
+
+A web-grounded research agent that answers questions using live sources instead of relying on static training data — every answer comes with citations back to the original source.
+
+**Stack:** Python, FastAPI, LangGraph, tool calling
+
+**Highlights:**
+- Agentic loop: query → live web search → relevance-graded sources → automatic query refinement and retry on weak results → cited, grounded answer
+- Streams reasoning and search progress in real time
+- Maintains context across related follow-up questions
+- Explicitly reports when no reliable answer is found, instead of hallucinating one
+
+---
+
+### FastAPI Authentication API
+Production-style authentication service with JWT-based auth, role-based access control, and secure password handling.
+
+**Stack:** Python, FastAPI, PostgreSQL
+
+---
+
+### PostgreSQL REST API
+A RESTful API built on a normalized PostgreSQL schema, focused on clean data modeling and query performance.
+
+**Stack:** Python, FastAPI, PostgreSQL
+
+---
+
+### AI News Classifier
+A machine learning model that classifies news articles by category/topic.
+
+**Stack:** Python, scikit-learn / ML pipeline
+
+---
+
+### Redis Caching System
+Caching layer implementation to reduce database load and cut API response times.
+
+**Stack:** Redis, Python/Node.js
+
+---
+
+### Full-Stack Dashboard
+End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
+
+**Stack:** React, Next.js, Node.js/FastAPI, PostgreSQL
 
 ## Current Direction
 
 I am building strong foundations in backend engineering, database systems, and AI-powered applications.
-
-
- Projects
-
-- FastAPI Authentication API
-- PostgreSQL REST API
-- AI News Classifier
-- Redis Caching System
-- Full-Stack Dashboard
-- Machine Learning Prediction API
 
 ## Professional Mindset
 
