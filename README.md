@@ -92,6 +92,6 @@ End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
 
 I am building strong foundations in backend engineering, database systems, and AI-powered applications.
 
-## Professional Mindset
+## Mindset
 
 Build with purpose. Learn with discipline. Improve with consistency.
