@@ -1,6 +1,6 @@
 # Ishak Abdiaziz Hussein
 
-### Backend Software Engineer | AI Engineering
+### Backend Software Engineer | AI Engineer
 
 High-growth-capacity Web Systems • API Design • Backend Architecture • AI Engineering
 
