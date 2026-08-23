@@ -41,7 +41,7 @@ A RAG-powered assistant that lets users upload documents (PDF, Word) and query t
 ---
 
 ### Research Agent
-Repo: https://github.com/IshakAbdiazizHussen/Research-Agent-
+Repo: https://github.com/IshakAbdiazizHussen/Research-Agent
 
 A web-grounded research agent that answers questions using live sources instead of relying on static training data — every answer comes with citations back to the original source.
 
