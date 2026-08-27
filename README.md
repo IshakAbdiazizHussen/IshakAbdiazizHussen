@@ -55,6 +55,23 @@ A web-grounded research agent that answers questions using live sources instead 
 
 ---
 
+### AI Image Classifier
+Live: https://ai-image-classifer.vercel.app
+Repo: [add repo link]
+
+A full-stack web application that classifies images into 10 categories (CIFAR-10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), using a PyTorch-trained model served via ONNX Runtime.
+
+**Stack:** Next.js (frontend, Vercel) • FastAPI + Uvicorn (backend, Render/Docker) • PyTorch (timm) exported to ONNX • PostgreSQL via SQLAlchemy + Alembic (Supabase) • Redis (Upstash) • Docker Compose (local dev)
+
+**Highlights:**
+- Upload a JPEG/PNG/WebP image and get a predicted class with confidence scores across all 10 categories
+- Prediction history persisted to Postgres
+- Redis-backed rate limiting that fails closed — blocks requests rather than silently allowing unlimited traffic if Redis is unreachable
+- Result caching by image hash to avoid redundant inference
+- `/healthz` endpoint reporting live status of database, Redis, and model artifact
+
+---
+
 ### FastAPI Authentication API
 Production-style authentication service with JWT-based auth, role-based access control, and secure password handling.
 
