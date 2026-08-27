@@ -56,8 +56,7 @@ A web-grounded research agent that answers questions using live sources instead 
 ---
 
 ### AI Image Classifier
-Live: https://ai-image-classifer.vercel.app
-Repo: [add repo link]
+Repo: https://github.com/IshakAbdiazizHussen/Ai-image-classifer-
 
 A full-stack web application that classifies images into 10 categories (CIFAR-10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), using a PyTorch-trained model served via ONNX Runtime.
 
