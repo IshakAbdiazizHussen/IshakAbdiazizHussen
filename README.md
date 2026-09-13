@@ -1,10 +1,13 @@
 # Ishak Abdiaziz Hussein
 
+Portfolio: https://ishak-abdiaziz-portfolio.vercel.app/
+
 ### Backend Software Engineer | AI Engineer
 
 High-growth-capacity Web Systems • API Design • Backend Architecture • AI Engineering
 
 I build production-ready backend systems and APIs with clean architecture, maintainable code, and scalable infrastructure — and I'm extending that into AI-powered applications.
+
 
 ## Focus
 
@@ -95,5 +98,3 @@ End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
 ## Mindset
 
 Build with purpose. Learn with discipline. Improve with consistency.
-
-Portfolio: https://ishak-abdiaziz-portfolio.vercel.app/
