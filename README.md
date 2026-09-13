@@ -1,13 +1,12 @@
 # Ishak Abdiaziz Hussein
 
-[Portfolio](https://ishak-abdiaziz-portfolio.vercel.app/)
-
 ### Backend Software Engineer | AI Engineer
 
 High-growth-capacity Web Systems • API Design • Backend Architecture • AI Engineering
 
 I build production-ready backend systems and APIs with clean architecture, maintainable code, and scalable infrastructure — and I'm extending that into AI-powered applications.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=flat-square&logoColor=black)](https://ishak-abdiaziz-portfolio.vercel.app/)
 
 ## Focus
 
@@ -61,40 +60,4 @@ A web-grounded research agent that answers questions using live sources instead 
 ### AI Image Classifier
 Repo: https://github.com/IshakAbdiazizHussen/Ai-image-classifer-
 
-A full-stack web application that classifies images into 10 categories (CIFAR-10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), using a PyTorch-trained model served via ONNX Runtime.
-
-**Stack:** Next.js (frontend, Vercel) • FastAPI + Uvicorn (backend, Render/Docker) • PyTorch (timm) exported to ONNX • PostgreSQL via SQLAlchemy + Alembic (Supabase) • Redis (Upstash) • Docker Compose (local dev)
-
-**Highlights:**
-- Upload a JPEG/PNG/WebP image and get a predicted class with confidence scores across all 10 categories
-- Prediction history persisted to Postgres
-- Redis-backed rate limiting that fails closed — blocks requests rather than silently allowing unlimited traffic if Redis is unreachable
-- Result caching by image hash to avoid redundant inference
-- `/healthz` endpoint reporting live status of database, Redis, and model artifact
-
----
-
-### FastAPI Authentication API
-Production-style authentication service with JWT-based auth, role-based access control, and secure password handling.
-
-**Stack:** Python, FastAPI, PostgreSQL
-
----
-
-### PostgreSQL REST API
-A RESTful API built on a normalized PostgreSQL schema, focused on clean data modeling and query performance.
-
-**Stack:** Python, FastAPI, PostgreSQL
-
----
-
-### Full-Stack Dashboard
-End-to-end web dashboard with a React/Next.js frontend backed by a REST API.
-
-**Stack:** React, Next.js, Node.js/FastAPI, PostgreSQL
-
----
-
-## Mindset
-
-Build with purpose. Learn with discipline. Improve with consistency.
+A full-stack web application that classifies images into 10 categories (CIFAR-10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), using a
