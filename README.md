@@ -1,6 +1,6 @@
 # Ishak Abdiaziz Hussein
 
-Portfolio: https://ishak-abdiaziz-portfolio.vercel.app/
+[Portfolio](https://ishak-abdiaziz-portfolio.vercel.app/)
 
 ### Backend Software Engineer | AI Engineer
 
